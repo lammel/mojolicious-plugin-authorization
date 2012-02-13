@@ -1,6 +1,6 @@
 =pod
 
-L<Mojolicious::Plugin::Authentication> is a module that helps you deal with authenticating users in your Mojolicious application. 
+L<Mojolicious::Plugin::Authorization> is a module that helps you deal with authorizing access to parts of your Mojolicious application. 
 
 =head2 Cloning this repository
 
